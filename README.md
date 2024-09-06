@@ -33,7 +33,7 @@
 
  ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAriasOrozco&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAriasOrozco&layout=compact" alt="Most used languages"/>
 </p>
 
   <h3 align="center">Let's work together and make amazing things happen!🚀</h3>
