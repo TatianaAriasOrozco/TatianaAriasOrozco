@@ -3,10 +3,14 @@
   <em>Web developer passionate about technology and continuously learning new technologies to provide the best solutions through code while staying updated in this ever-evolving world.</em>
 </p>
 
-- 📫 How to reach me ariast163@gmail.com
 - 💖 I love traveling, learning, exercising, and my family.
 - 🌱 I’m currently learning Backend.
 - ⚡ Fun Fact: I am also a physical engineer.
+- 📫 How to reach me: 
+  <p><strong>ariast163@gmail.com</strong></p>
+  <a href="https://www.linkedin.com/in/tatianaariasorozco/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
 ## 💻 Languages & Tools
  ### Frontend
@@ -32,16 +36,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAriasOrozco&layout=compact"/>
 </p>
 
- ## Contact Me:
- <div style="display: inline-flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;">
-    <span style="vertical-align: middle;">ariast163@gmail.com</span>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/tatianaariasorozco/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
   <h3 align="center">Let's work together and make amazing things happen!🚀</h3>
 
   
