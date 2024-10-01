@@ -17,7 +17,7 @@
   [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,typescript,react)](https://skillicons.dev)
 
 ### Backend
-  [![Backend](https://skillicons.dev/icons?i=postgresql,nodejs,aws)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=postgresql,typescript,nodejs,express)](https://skillicons.dev)
 
 ### Design and Development
   [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
@@ -29,7 +29,7 @@
   </a>
 
 ### Others
-   [![DevOps](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
+   [![DevOps](https://skillicons.dev/icons?i=linux,git,github,vitest,supertest)](https://skillicons.dev)
 
  ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
